@@ -1,0 +1,62 @@
+AGRICULTURE SERVICE OF PRODUCT FARM
+PROPRIETARY BUSINESS LICENSE
+
+AgriFlow LBM and Associated Scientific Computing Assets
+
+Copyright (c) 2026 Agriculture Service of Product Farm. All rights reserved.
+
+1. DEFINITIONS
+
+"Licensor" means Agriculture Service of Product Farm (ASPF), including its successors and assigns.
+
+"Software" means the AgriFlow LBM scientific computing platform, all source code, object code, documentation, numerical models, algorithms, data schemas, configuration files, test suites, and any derivative works thereof, whether in source or compiled form.
+
+"Licensee" means any person or entity that receives, accesses, or uses the Software under the terms of this License.
+
+"Confidential Information" means all non-public technical, scientific, numerical, and business information embodied in the Software.
+
+2. GRANT OF LICENSE
+
+Subject to the terms of this License, Licensor grants Licensee a limited, non-exclusive, non-transferable, revocable license to use the Software solely for internal evaluation or as otherwise expressly authorized in writing by Licensor.
+
+No right is granted to:
+- Distribute, sublicense, lease, or sell the Software;
+- Modify, reverse engineer, decompile, or disassemble the Software;
+- Publish, disclose, or make available any numerical formulations, algorithms, or source code contained in the Software;
+- Use the Software to provide services to third parties without a separate commercial agreement.
+
+3. OWNERSHIP
+
+All intellectual property rights in the Software, including copyright, trade secrets, numerical methods, and associated documentation, are and shall remain the exclusive property of Licensor. This License does not transfer any ownership interest.
+
+4. CONFIDENTIALITY
+
+Licensee shall maintain the Software and all Confidential Information in strict confidence. Licensee shall not disclose, publish, or permit access to the Software or any portion thereof to any third party without the prior written consent of Licensor.
+
+5. RESTRICTIONS ON PUBLIC DISCLOSURE
+
+No scientific formulations, discrete lattice parameters, collision operators, forcing schemes, boundary treatments, unit conversions, or numerical results derived from the Software may be published, posted, or otherwise made publicly available without the express written approval of Licensor.
+
+6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL PRODUCE ACCURATE OR VALIDATED SCIENTIFIC RESULTS FOR ANY PARTICULAR APPLICATION.
+
+7. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. TERMINATION
+
+This License terminates automatically upon any breach by Licensee. Upon termination, Licensee shall immediately cease all use of the Software and destroy all copies in its possession or control.
+
+9. GOVERNING LAW
+
+This License shall be governed by the laws of India, without regard to conflict-of-law principles. Any dispute arising under this License shall be subject to the exclusive jurisdiction of the courts located in Uttar Pradesh, India.
+
+10. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between the parties concerning the Software and supersedes all prior or contemporaneous agreements, whether written or oral.
+
+Agriculture Service of Product Farm
+Proprietary and Confidential
+2026
