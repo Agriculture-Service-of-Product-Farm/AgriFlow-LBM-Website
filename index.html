@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="AgriFlow LBM — Advanced research platform for agricultural hydrology and soil physics by Agriculture Service of Product Farm.">
   <title>AgriFlow LBM — Agricultural Hydrology Research Platform</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="icon" type="image/png" href="logo.png">
@@ -14,9 +15,11 @@
         <img src="logo.png" alt="AgriFlow LBM Logo" class="logo">
         <span class="brand">AgriFlow LBM</span>
       </div>
-      <ul>
+      <button class="menu-toggle" aria-label="Menu">☰</button>
+      <ul class="nav-links">
         <li><a href="#home">Home</a></li>
         <li><a href="#research">Research</a></li>
+        <li><a href="#areas">Focus Areas</a></li>
         <li><a href="#platform">Platform</a></li>
         <li><a href="#about">About</a></li>
       </ul>
@@ -28,7 +31,7 @@
       <img src="logo.png" alt="AgriFlow LBM" class="hero-logo">
       <h1>AgriFlow LBM</h1>
       <p class="tagline">Advanced Research Platform for Agricultural Hydrology and Soil Physics</p>
-      <p class="subtitle">Developed by Agriculture Service of Product Farm</p>
+      <p class="subtitle">Agriculture Service of Product Farm</p>
       <a href="#platform" class="cta">Explore the Platform</a>
     </div>
   </section>
@@ -51,26 +54,43 @@
     </div>
   </section>
 
+  <section id="areas">
+    <h2>Research Areas</h2>
+    <div class="areas-grid">
+      <div class="area"><h3>Soil Physics</h3><p>Hydraulic properties and pore structure characterization.</p></div>
+      <div class="area"><h3>Hydrology</h3><p>Infiltration, retention, and field-scale water movement.</p></div>
+      <div class="area"><h3>Transport Processes</h3><p>Nutrient and solute movement in agricultural soils.</p></div>
+      <div class="area"><h3>Model Validation</h3><p>Comparison against analytical and experimental references.</p></div>
+    </div>
+  </section>
+
   <section id="platform">
     <h2>Research Platform</h2>
-    <p>AgriFlow LBM is a privately developed scientific computing platform under active research at Agriculture Service of Product Farm. All numerical models, algorithms, and source code remain confidential.</p>
+    <p>AgriFlow LBM is a privately developed scientific computing platform under active research at Agriculture Service of Product Farm. All numerical models, algorithms, source code, and formulations remain confidential and are not disclosed on this public site.</p>
     <div class="status">
       <p><strong>Status:</strong> Active Research & Development</p>
       <p><strong>Access:</strong> Private research repository</p>
       <p><strong>Computation:</strong> Local high-performance environment</p>
+      <p><strong>Public Disclosure:</strong> None — proprietary research</p>
     </div>
   </section>
 
   <section id="about">
-    <h2>About</h2>
-    <p>AgriFlow LBM is part of the scientific computing programme at Agriculture Service of Product Farm (ASPF). The platform supports research in agricultural hydrology, soil physics, and precision irrigation systems.</p>
-    <p>For collaboration inquiries, contact the research team through the organization.</p>
+    <h2>About AgriFlow LBM</h2>
+    <p>AgriFlow LBM forms part of the scientific computing programme at Agriculture Service of Product Farm (ASPF). The platform supports research in agricultural hydrology, soil physics, and precision irrigation systems.</p>
+    <p>Collaboration inquiries may be directed through the organization. No technical details of the numerical engine are published here.</p>
   </section>
 
   <footer>
-    <img src="logo.png" alt="ASPF" class="footer-logo">
+    <img src="logo.png" alt="ASPF AgriFlow LBM" class="footer-logo">
     <p>&copy; 2026 Agriculture Service of Product Farm. All rights reserved.</p>
     <p>AgriFlow LBM is a private research platform. No scientific formulations or source code are disclosed on this site.</p>
   </footer>
+
+  <script>
+    document.querySelector('.menu-toggle').addEventListener('click', function() {
+      document.querySelector('.nav-links').classList.toggle('active');
+    });
+  </script>
 </body>
 </html>
